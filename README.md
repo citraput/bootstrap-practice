@@ -7,6 +7,7 @@ https://citraput.github.io/bootstrap-practice-tinDog/
 Practice designing a website using Bootstrap, HTML and CSS, based on the course of Angela Yu.
 <hr>
 The website scheme consists of:
+
 1. Bootstrap starterpack:
 
 ```<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
